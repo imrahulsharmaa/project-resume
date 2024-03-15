@@ -1,2 +1,2 @@
 #resume
-hosted link: https://imrahulsharmaa.github.io/project-resume/
+Hosted [Link](https://imrahulsharmaa.github.io/project-resume/)
